@@ -10,7 +10,8 @@ import {
   X,
   ChevronDown,
   Building,
-  Palette
+  Palette,
+  User
 } from 'lucide-react';
 
 const MainLayout: React.FC = () => {
